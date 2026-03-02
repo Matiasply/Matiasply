@@ -1,12 +1,6 @@
 ![Galaxy Header](https://raw.githubusercontent.com/Matiasply/galaxy-profile/refs/heads/main/assets/generated/galaxy-header.svg)
 <br/>
 
-![Mission Telemetry](https://raw.githubusercontent.com/Matiasply/galaxy-profile/refs/heads/main/assets/generated/stats-card.svg)
-
-<br/>
-![Tech Stack](https://raw.githubusercontent.com/Matiasply/galaxy-profile/refs/heads/main/assets/generated/tech-stack.svg)
-<br/>
-
 <details>
 <summary><strong>More about me</strong></summary>
 
