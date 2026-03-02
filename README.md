@@ -1,22 +1,10 @@
 ![Galaxy Header](https://raw.githubusercontent.com/Matiasply/galaxy-profile/refs/heads/main/assets/generated/galaxy-header.svg)
 <br/>
 
-<div align="center">
-  <img src="./assets/generated/stats-card.svg" width="850" alt="Mission Telemetry"/>
-</div>
+![Mission Telemetry](https://raw.githubusercontent.com/Matiasply/galaxy-profile/refs/heads/main/assets/generated/stats-card.svg)
 
 <br/>
-
-<div align="center">
-  <img src="./assets/generated/tech-stack.svg" width="850" alt="Tech Stack"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="./assets/generated/projects-constellation.svg" width="850" alt="Featured Projects"/>
-</div>
-
+![Tech Stack](https://raw.githubusercontent.com/Matiasply/galaxy-profile/refs/heads/main/assets/generated/tech-stack.svg)
 <br/>
 
 <details>
@@ -24,8 +12,8 @@
 
 <br/>
 
-Building tools that make developers' lives easier.
-Passionate about distributed systems, developer experience, and the open-source ecosystem.
+Data Science student driven by curiosity and structure.  
+Building complete systems from database to interface — exploring the galaxy of technology one project at a time. ✨
 
 **Currently at** Federal University of Paraíba — João Pessoa, PB
 </details>
