@@ -1,7 +1,4 @@
-<div align="center">
-  <img src="./assets/generated/galaxy-header.svg" width="850" alt="Galaxy Header"/>
-</div>
-
+![Galaxy Header](https://raw.githubusercontent.com/Matiasply/galaxy-profile/main/assets/generated/galaxy-header.svg)
 <br/>
 
 <div align="center">
