@@ -1,4 +1,4 @@
-![Galaxy Header](https://raw.githubusercontent.com/Matiasply/galaxy-profile/main/assets/generated/galaxy-header.svg)
+![Galaxy Header](https://raw.githubusercontent.com/Matiasply/galaxy-profile/refs/heads/main/assets/generated/galaxy-header.svg)
 <br/>
 
 <div align="center">
